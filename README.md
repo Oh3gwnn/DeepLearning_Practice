@@ -1,6 +1,7 @@
 ## 1. Deep_learning_P2_2017250039
-- 저수준 선형 분류 신형망 구현(tensorflow, keras)
-- 2021.10.11
+
+  저수준 선형 분류 신형망 구현(tensorflow, keras)
+  2021.10.11
 
 ## 2. CNN_Image_segmentation
 - 저수준 선형 분류 신경망 구현(tensorflow, keras)
